@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "2348022159244",
-  SUDO_NUMBERS : "2348022159244,2348086523699",
-  OWNER_NAME: "『𝐒𝐖𝐄𝐄𝐓 𝐁𝐎𝐈𓃵』",
-  BOT_NAME : "𝐒𝐖𝐄𝐄𝐓 𝐁𝐎𝐈 𝐁𝐎𝐓𓃵",
+  OWNER_NUMBER: "2347082102521,2348022159244",
+  SUDO_NUMBERS : "2348022159244,2347082102521",
+  OWNER_NAME: "『𝐈𝐧𝐜𝐫𝐞𝐝𝐢𝐛𝐥𝐞🕊』",
+  BOT_NAME : "𝐈𝐧𝐜𝐫𝐞𝐝𝐢𝐛𝐥𝐞 𝐁𝐨𝐭🕊",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '©𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐒𝐖𝐄𝐄𝐓 𝐁𝐎𝐈 𝐁𝐎𝐓𓃵',
-  STICKER_PACK : '[𝐒𝐖𝐄𝐄𝐓 𝐁𝐎𝐈𓃵]',
+  CAPTION : '©𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐈𝐧𝐜𝐫𝐞𝐝𝐢𝐛𝐥𝐞 𝐁𝐨𝐭🕊',
+  STICKER_PACK : '[𝐈𝐧𝐜𝐫𝐞𝐝𝐢𝐛𝐥𝐞 𝐁𝐨𝐭🕊]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🔥',
+  OWNER_REACT : '🕊',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
